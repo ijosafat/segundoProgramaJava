@@ -19,8 +19,8 @@ public class EjerciciosJava {
         int a = 0;
         if (a == 0) {
             System.out.println("hola mundo :" + a);
-            
         }
+        System.out.println ("Segundo cambio");
     }
     
 }
